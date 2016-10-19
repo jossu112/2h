@@ -1,8 +1,6 @@
-Ma tahaksin teha oma mvp lehekülje sellise, kus töötajad nt. massöörid saavad välja kuulutada ajad, millal
-neil on võimalik tööd teha ja kliendid saavad teiselt poolt neid aegu vaadata ja broneerida neid
-aegu vastavalt protseduuri pikkusele (on kindel hinnakiri ja teenuse kestvus). aga seda saab kasutada
-igaüks, kes pakub mingit teenust, kus niiviisi aja broneerimine soimib. Muidugi on võimalik
-teenusepakkujale ka helistada või näiteks läbi selle sama programmi kirjutada.
+Ma tahaksin teha oma mvp lehekülje sellise, mille nimi on "norm pemm"
+BMW entusiastid saavad om pemmidest sinna pilte ja informatsiooni jne panna ning see on kõigile inimestele nähtav(nagu foorum)
+inimesed saavad hääletada, kas on "norm pemm" või on "sitt pemm" ning seejärel ka kirjutada, miks nad nii arvavad
 
 
 
